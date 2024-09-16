@@ -3,10 +3,9 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
-- 💻 I have experience in **Python, SQL, Java, C#, Kotlin, Flutter**, and tools like Git, Agile, Scrum, and Jira.
-- 👯 Open to opportunities
-- 💬 Ask me about **Data Science, Machine Learning, and Flutter Development**.
+- 💬 Ask me about **Data Science, App development, and Flutter Development**.
 - ⚡ Fun fact: I’m committed to personal growth and always eager to tackle new challenges!
+- 👯 Looking for Growth Opportunities
 ---
 
 ### 🛠️ Languages
