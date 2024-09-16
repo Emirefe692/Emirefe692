@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Seeking:** I’m currently seeking new job opportunities in the tech industry.
+- 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
 - 💻 I have experience in **Python, SQL, Java, C#, Kotlin, Flutter**, and tools like Git, Agile, Scrum, and Jira.
 - 👯 I’m open to collaborating on **Data Science** and **Mobile App Development** projects.
@@ -27,5 +27,5 @@
 ---
 
 ### 📫 How to reach me:  
-- Email: ertasmehmet10@gmail.com  
-- LinkedIn: [Mehmet Ertaş](https://www.linkedin.com/in/mehmetertas/)  
+- **Email**: ertasmehmet10@gmail.com  
+- **LinkedIn**: [Mehmet Ertaş](https://www.linkedin.com/in/mehmetertas/)  
