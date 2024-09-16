@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=5&duration=2000&pause=1000&width=500&height=77&lines=Hi👋,I%27m+Mehmet+Ertas;%20Software+Engineer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=25&duration=2000&pause=1000&width=500&height=77&lines=Hi👋,I%27m+Mehmet+Ertas;%20Software+Engineer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20)
 
 ---
 ### 👨‍💻 About Me
@@ -7,7 +7,6 @@
 - 💻 I have experience in **Python, SQL, Java, C#, Kotlin, Flutter**, and tools like Git, Agile, Scrum, and Jira.
 - 👯 Open to opportunities
 - 💬 Ask me about **Data Science, Machine Learning, and Flutter Development**.
-- 📫 How to reach me: **ertasmehmet10@gmail.com**.
 - ⚡ Fun fact: I’m committed to personal growth and always eager to tackle new challenges!
 ---
 
