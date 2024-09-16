@@ -2,7 +2,6 @@
 <h1 align="center">Software Engineer</h1>
 
 ---
-
 ### 👨‍💻 About Me
 - 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
@@ -11,7 +10,6 @@
 - 🚀 Looking for Growth Opportunities
 
 ---
-
 ### 🛠️ Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
