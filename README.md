@@ -2,7 +2,6 @@
 
 ---
 ### 👨‍💻 About Me
-
 - 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
 - 💻 I have experience in **Python, SQL, Java, C#, Kotlin, Flutter**, and tools like Git, Agile, Scrum, and Jira.
@@ -12,7 +11,7 @@
 - ⚡ Fun fact: I’m committed to personal growth and always eager to tackle new challenges!
 ---
 
-### 🛠️ Languages:
+### 🛠️ Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
