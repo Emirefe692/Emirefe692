@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=20&size=30&duration=2000&pause=1000&width=500&height=30&lines=Hi👋,+I'm+Mehmet+Ertas;%20Software+Engineer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=20&size=20&duration=2000&pause=1000&width=500&height=30&lines=Hi👋,+I'm+Mehmet+Ertas;%20Software+Engineer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
 
 ---
 ### 👨‍💻 About Me
