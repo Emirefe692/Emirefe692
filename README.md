@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mehmet Ertaş</h1>
-<h3 align="center">A Software Engineer with a strong background in mobile application development, data analytics, and machine learning. I am continuously enhancing my skills through hands-on projects and internships, with experience in Agile methodologies and a passion for solving complex problems through technology.
+<h3 align="center">Software Engineer with a strong background in mobile app development and data science. Passionate about solving problems and continuously improving through hands-on projects.</h3>
 </h3>
 
 - 🔭 I’m currently looking for new opportunities  
