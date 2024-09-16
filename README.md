@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Mehmet Ertaş</h1>
+<h1 align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=25&duration=2000&pause=1000&width=500&height=77&lines=I%27m+Mehmet+Ertas;%20Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)</h1>
 <h3 align="center">Passionate about solving problems and continuously improving through hands-on projects.</h3>
 </h3>
 
- 🔭 I’m currently seeking new job opportunities in the tech industry.
+- 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
 - 💻 I have experience in **Python, SQL, Java, C#, Kotlin, Flutter**, and tools like Git, Agile, Scrum, and Jira.
 - 👯 I’m open to collaborating on **Data Science** and **Mobile App Development** projects.
