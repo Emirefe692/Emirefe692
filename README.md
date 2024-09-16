@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ertaş</h1>
-<h3 align="center">A dedicated Software Engineer with a strong foundation in mobile app development and data science. Passionate about leveraging technology to solve complex problems and continuously enhance my skills through hands-on projects and learning opportunities.</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
