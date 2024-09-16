@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehmet Ertaş</h1>
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Ertaş Software Engineer</h1>
+<h1 align="center"></h1>
 
 ---
 ### 👨‍💻 About Me
