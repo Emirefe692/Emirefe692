@@ -1,7 +1,4 @@
 <h1>Hi 👋, I'm Mehmet Ertaş Software Engineer</h1>
-
-
---
 ### 👨‍💻 About Me
 - 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
