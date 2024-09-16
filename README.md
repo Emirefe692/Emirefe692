@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Mehmet Ertaş</h1>
-
 <h3 align="center">Passionate about solving problems and continuously improving through hands-on projects.</h3>
 </h3>
 
