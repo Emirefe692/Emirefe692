@@ -1,6 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=1000&size=35&duration=2000&pause=1000&color=FFFFFF&width=400&height=70&lines=Hi,+I%27m+Mehmet+Ertas+👋;%20Software+Engineer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
----
+<h1 align="center">Hi 👋, I'm Mehmet Ertaş</h1>
+<h3 align="center">A dedicated Software Engineer with a strong foundation in mobile app development and data science. Passionate about leveraging technology to solve complex problems and continuously enhance my skills through hands-on projects and learning opportunities.</h3>
 
+---
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently seeking new job opportunities in the tech industry.
