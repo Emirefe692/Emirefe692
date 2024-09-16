@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=35&duration=2000&pause=1000&width=500&height=77&lines=Hi,+I%27m+Mehmet+Ertas👋;%20Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20)
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=35&duration=2000&pause=1000&width=500&height=77&lines=I%27m+Mehmet+Ertas;%20Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20%7C%20Data+Scientist+%F0%9F%92%BB%20👋)
 
 
 ---
@@ -8,11 +7,10 @@
 - 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
 - 💻 I have experience in **Python, SQL, Java, C#, Kotlin, Flutter**, and tools like Git, Agile, Scrum, and Jira.
-- 👯 I’m open to collaborating on **Data Science** and **Mobile App Development** projects.
-- 💬 Ask me about **Data Analytics, Machine Learning, and Flutter Development**.
+- 👯 Open to opportunities
+- 💬 Ask me about **Data Scientist, Machine Learning, and Flutter Development**.
 - 📫 How to reach me: **ertasmehmet10@gmail.com**.
 - ⚡ Fun fact: I’m committed to personal growth and always eager to tackle new challenges!
-- 👯 Open to opportunities
 ---
 
 ### 🛠️ Languages and Tools:
