@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Mehmet Ertaş</h1>
-<h3 align="center">Passionate about solving problems and continuously improving through hands-on projects.</h3>
+<h2 align="center">Passionate about solving problems and continuously improving through hands-on projects.</h2>
 
 ---
 
@@ -25,28 +23,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
-
----
-
-### 📚 Projects
-
-- **Quiz Game:** A Java and Firebase-based quiz application with user management, real-time performance tracking, and interactive question-answer features.
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  </p>
-
-- **Crypto Clock Project:** An innovative project combining mobile app development with hardware design using Java, SQL, Kotlin, Arduino, and Firebase.
-  <p align="center">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  </p>
-
-- **Cafe Automation:** A C# and SQL-based system designed to manage cafe operations, including table occupancy, menu management, and pricing.
-  <p align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/SQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  </p>
 
 ---
 
