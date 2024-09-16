@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Mehmet Ertaş Software Engineer</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=50&size=35&duration=2000&pause=1000&width=400&height=77&lines=Hello👋,+I'm+Mehmet+Ertaş,+Software+Engineer)
 
 ---
 ### 👨‍💻 About Me
