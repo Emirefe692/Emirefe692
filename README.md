@@ -1,15 +1,17 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=35&duration=2000&pause=1000&width=500&height=77&lines=Hi,I%27m+Mehmet+Ertas👋;%20Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=35&duration=2000&pause=1000&width=500&height=77&lines=Hi,+I%27m+Mehmet+Ertas+👋;%20Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
 
 ---
-### 👨‍💻 About Me
+
+### 🧠 About Me
 - 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
-- 💬 Ask me about **Data Science, App development, and Flutter Development**.
+- 💬 Ask me about **Data Science, App Development, and Flutter Development**.
 - ⚡ Fun fact: I’m committed to personal growth and always eager to tackle new challenges!
-- 👯 Looking for Growth Opportunities
+- 🚀 Looking for Growth Opportunities
+
 ---
 
-### 🛠️ Languages
+### 🛠️ Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -20,7 +22,7 @@
 </p>
 
 ---
-### 📫 How to Reach Me
 
+### 📫 How to Reach Me
 - **Email**: [ertasmehmet10@gmail.com](mailto:ertasmehmet10@gmail.com)
 - **LinkedIn**: [Mehmet Ertaş](https://www.linkedin.com/in/mehmetertas/)
